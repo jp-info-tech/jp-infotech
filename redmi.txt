@@ -1,0 +1,24 @@
+header:
+<style type="text/css" data-type="vc_shortcodes-custom-css">
+      .vc_custom_1486397743838 {
+        background-color: #fdefe8; 
+      }
+vc_custom_1485612109953 
+
+
+
+nav Bar:
+.main-navigation .current-menu-ancestor 
+Lines:
+.main-navigation .nav-menu > li > a:after
+
+#ED691F
+
+
+header:
+.header-static {
+background-color:  
+#fbe0d0;
+ }
+
+ 
