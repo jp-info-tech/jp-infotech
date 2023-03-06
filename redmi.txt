@@ -1,9 +1,14 @@
+TOP header:
+.header-static {
+
 header:
 <style type="text/css" data-type="vc_shortcodes-custom-css">
       .vc_custom_1486397743838 {
         background-color: #fdefe8; 
       }
 vc_custom_1485612109953 
+ #fdefe7
+
 
 
 
@@ -22,3 +27,5 @@ background-color:
  }
 
  
+home
+<span class="icon icon-basic-home"></span>
