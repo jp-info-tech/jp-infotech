@@ -68,94 +68,16 @@ home
         </a>
       </div>
 
+change logo
+
+Our Repair Services to our Services
+REPAIR LAPTOP
+  need ro add
+HDD UPGRADE to Hardware
+
+REPAIR COMPUTER to sales
+
+ 
 
 
-
-
-header
--------------------------------
-<div class="container">
-          <div class="row">
-            <div class="col-md-3 col-sm-12">
-              <div class="site-logo">
-                <a href="home.html" title="Restore"
-                  ><img
-                    class=""
-                    src="images/newjp.png"
-                    alt="jp-infotech"
-                    style="object-fit:cover, objecy-position:center; height: 80px;"
-                /></a>
-              </div>
-            </div>
-            <div class="col-md-7 col-sm-12 hidden-sm hidden-xs">
-              <div class="header-middle">
-                <div class="row">
-                  <div class="col-md-4">
-                    <div class="repair-icon-box">
-                      <div class="icon-container">
-                        <!--<span class="icon icon-basic-home"></span>-->
-                        <span>
-                          <i class="fas fa-home" style="color: #ed691f"></i>
-                        </span>
-                      </div>
-                      <div class="text">
-                        <span class="head-heading" style="color: black"
-                          >Visit Us</span
-                        >
-                        <span class="head-content"
-                          ><small style="color: #f2925a"
-                            >FIRST FLOOR, 102, RUDRA COMPLEX</small
-                          ></span
-                        >
-                      </div>
-                    </div>
-                  </div>
-                  <div class="col-md-4">
-                    <div class="repair-icon-box">
-                      <div class="icon-container">
-                        <i
-                          class="fas fa-phone-square"
-                          style="color: #ed691f"
-                        ></i>
-                      </div>
-                      <div class="text">
-                        <span class="head-heading" style="color: black"
-                          >Call Us Now</span
-                        >
-                        <span class="head-content" style="color: #f2925a"
-                          >+91 99040 78899</span
-                        >
-                        <span class="head-content" style="color: #f2925a"
-                          >+91 94280 00748</span
-                        >
-                      </div>
-                    </div>
-                  </div>
-                  <div class="col-md-4">
-                    <div class="repair-icon-box">
-                      <div class="icon-container">
-                        <i class="far fa-clock" style="color: #ed691f"></i>
-                      </div>
-                      <div class="text">
-                        <span class="head-heading" style="color: black"
-                          >Mon - Sat</span
-                        >
-                        <span class="head-content" style="color: #f2925a"
-                          >10:00 AM - 07:30 PM</span
-                        >
-                        <span class="head-content" style="color: #f2925a"
-                          >Sunday: Closed</span
-                        >
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-2 col-sm-12 hidden-sm hidden-xs">
-              <div class="header-right">
-                <a class="btn-request_quote" href="#"> Call Now</a>
-              </div>
-            </div>
-          </div>
-        </div>
+ 
