@@ -3388,6 +3388,11 @@ We use it here to ensure columns blocks display well across themes.
           text-align: right !important;
         }
       }
+      @keyframes myAnimation {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.1); }
+    100% { transform: scale(1); }
+  }
     </style>
     <link
       rel="stylesheet"
@@ -4307,7 +4312,12 @@ We use it here to ensure columns blocks display well across themes.
                                         <div class="vc_column-inner">
                                           <div class="wpb_wrapper">
                                             <div class="col-sm-6">
-                                              <img src="images/ref.jpg" class="img-thumbnail img-accordion img-fluid" alt="ref-used" srcset="">
+                                              <img src="images/ref.jpg" class="img-thumbnail img-accordion img-fluid" alt="ref-used" srcset=""> </br> </br>
+                                              <h4 class="text-center">Our Services  <span>
+                                                <a href="services.pdf" download>
+                                                  <button class="btn btn-danger btn-lr" style="animation: myAnimation 1s ease-in-out infinite;">Download PDF</button>
+                                                </a>
+                                              </span> </h4>
                                             </div>
                                             <div class="col-sm-6">
                                               <p class="text-center" style="color:#ED691F; font-size:20px;">About Sales, Upgrade & Repair services...!</p>
